@@ -72,3 +72,5 @@ make run-x
 [AI Product Photography](https://aiproductphotography.app/)
 [Tale Hug](https://talehug.app/)
 [Face Swap AI](https://bestfaceswap.io/)
+[AI Video Generator Belgie](https://videoany.be/)
+[AI bez cenzury](https://videoany.pl/)
