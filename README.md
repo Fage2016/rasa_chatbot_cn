@@ -74,3 +74,6 @@ make run-x
 [Face Swap AI](https://bestfaceswap.io/)
 [AI Video Generator Belgie](https://videoany.be/)
 [AI bez cenzury](https://videoany.pl/)
+[IA sem censura para vídeos e imagens](https://videoany.com.br/)
+[AI Nude](https://ainude.pl/)
+[Nude AI](https://nudeai.com.br/)
