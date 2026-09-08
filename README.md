@@ -77,3 +77,4 @@ make run-x
 [IA sem censura para vídeos e imagens](https://videoany.com.br/)
 [AI Nude](https://ainude.pl/)
 [Nude AI](https://nudeai.com.br/)
+[VideoAny Sweden](http://videoany.se/)
